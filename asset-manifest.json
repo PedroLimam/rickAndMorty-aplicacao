@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/rickAndMorty-aplicacao/static/js/main.a0afb90e.js",
+    "static/js/787.745e99b1.chunk.js": "/rickAndMorty-aplicacao/static/js/787.745e99b1.chunk.js",
+    "static/media/portal.png": "/rickAndMorty-aplicacao/static/media/portal.232985a0f8521dc00c6e.png",
+    "static/media/logorm.png": "/rickAndMorty-aplicacao/static/media/logorm.de3062ed18fb4232c53c.png",
+    "index.html": "/rickAndMorty-aplicacao/index.html",
+    "main.a0afb90e.js.map": "/rickAndMorty-aplicacao/static/js/main.a0afb90e.js.map",
+    "787.745e99b1.chunk.js.map": "/rickAndMorty-aplicacao/static/js/787.745e99b1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a0afb90e.js"
+  ]
+}
